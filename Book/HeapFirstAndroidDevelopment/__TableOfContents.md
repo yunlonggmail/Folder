@@ -2,7 +2,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Intro(xi)](_Intro.md)
 
-1. Your first app: Meet Android (1)
+1. Your first app: Meet Android ([1](1_YourFirstApp_MeetAndroid.md))
 2. Give your app an action: Adding behavior (41)
 3. Pictures from space: Work with feeds (79)
 4. When things take time: Long-running processes(123)
