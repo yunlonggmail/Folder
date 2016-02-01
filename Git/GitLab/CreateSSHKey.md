@@ -27,3 +27,11 @@
 6、然后选择Add SSH key按钮，将刚刚复制的内容粘贴进去即可，然后点击add key。
 
 ![image](images/AddSSHKey.png)
+
+# Clone 项目
+
+1、切换到对应的文件夹，输入命令行
+
+	git clone git@服务器地址:[工程].git
+	
+![images](images/CloneCode.png)
