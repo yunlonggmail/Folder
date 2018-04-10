@@ -8,7 +8,7 @@
 
 检查是否显示有id_rsa.pub或者id_dsa.pub，如果存在请调至第四步
 
-3、在git bash中键入 ssh-keygan -t rsa -C "yunlong.shi@..." ,注意将这里的邮箱地址换成自己的邮箱地址。
+3、在git bash中键入 ssh-keygen -t rsa -C "yunlong.shi@..." ,注意将这里的邮箱地址换成自己的邮箱地址。
 
 ![image](images/SSH创建.png)
 
@@ -32,6 +32,8 @@
 
 1、切换到对应的文件夹，输入命令行
 
-	git clone git@服务器地址:[工程].git
-	
+```
+git clone git@服务器地址:[工程].git
+```
+
 ![images](images/CloneCode.png)
