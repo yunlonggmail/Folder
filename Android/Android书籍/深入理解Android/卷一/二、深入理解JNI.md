@@ -536,3 +536,5 @@ jint        (*ThrowNew)(JNIEnv *, jclass, const char *);
 - 垃圾回收在JNI层中的使用，以及异常处理方面的知识
 
 [Android JNI Tips](https://developer.android.com/training/articles/perf-jni)
+
+
